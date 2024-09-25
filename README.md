@@ -1,5 +1,7 @@
 # Image Classifier with Streamlit and PyTorch
 
+[![Watch the video on Building a Real-Time Image Classifier with Streamlit and PyTorch](https://img.youtube.com/vi/gVaJipTY27s/maxresdefault.jpg)](https://youtu.be/gVaJipTY27s)
+
 This repository contains the code for a web-based image classifier built using Streamlit and PyTorch. The classifier is trained on a dataset of images of different defects in mobile phone screens and can accurately predict the type of defect in a given image.
 
 ## Getting Started
@@ -12,17 +14,21 @@ To run the classifier, you will need to have Python 3.7 or later installed. You 
 * Matplotlib
 
 You can install these libraries using pip:
-''' pip install torch torchvision streamlit pillow matplotlib '''
+``` pip install torch torchvision streamlit pillow matplotlib ```
 
 Once you have installed the required libraries, you can clone this repository and run the app:
 
-''' 
-git clone [invalid URL removed]
-cd image-classifier
+``` 
+git clone git@github.com:mohan696matlab/End-to-End-pytorch-project-on-Mobile-Scratch-Detection.git
+cd End-to-End-pytorch-project-on-Mobile-Scratch-Detection
 streamlit run app.py 
-'''
+```
 
 The app will open in a new browser window. You can upload an image to the app and the classifier will predict the type of defect in the image.
+
+## Data source
+
+The data to train the screen scratch model was obtained from : [kaggle](https://www.kaggle.com/datasets/girish17019/mobile-phone-defect-segmentation-dataset)
 
 ## Model Training
 
