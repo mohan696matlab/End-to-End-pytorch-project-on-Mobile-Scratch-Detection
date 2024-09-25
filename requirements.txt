@@ -1,0 +1,4 @@
+PyTorch==2.2.1+cu118
+Streamlit==1.37.0
+Pillow==10.2.0
+Matplotlib==3.8.3
