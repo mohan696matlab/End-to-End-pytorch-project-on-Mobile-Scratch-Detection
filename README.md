@@ -1,6 +1,6 @@
 # Image Classifier with Streamlit and PyTorch
 
-[![Watch the video on Building a Real-Time Image Classifier with Streamlit and PyTorch](https://img.youtube.com/vi/gVaJipTY27s/maxresdefault.jpg)](https://youtu.be/gVaJipTY27s)
+[![Watch the video on Building a Real-Time Image Classifier with Streamlit and PyTorch](https://img.youtube.com/vi/IBiL04fVLD8/maxresdefault.jpg)](https://youtu.be/IBiL04fVLD8)
 
 This repository contains the code for a web-based image classifier built using Streamlit and PyTorch. The classifier is trained on a dataset of images of different defects in mobile phone screens and can accurately predict the type of defect in a given image.
 
